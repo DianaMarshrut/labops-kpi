@@ -1,0 +1,11 @@
+{
+  "name": "kpi",
+  "version": "0.1.0",
+  "description": "KPI — из должности и целей компании строит таблицу 5–7 показателей с весами (сумма 100%), источниками данных и формулой бонуса.",
+  "author": {
+    "name": "labopsai"
+  },
+  "homepage": "https://labopsai.pro",
+  "license": "MIT",
+  "keywords": ["hr", "kpi", "bonus", "metrics", "performance", "okr"]
+}

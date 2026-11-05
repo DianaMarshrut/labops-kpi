@@ -1,0 +1,27 @@
+{
+  "name": "labopsai-kpi",
+  "owner": {
+    "name": "labopsai"
+  },
+  "metadata": {
+    "description": "Капсула labopsai «KPI» — 5–7 показателей с весами, источниками данных и формулой бонуса",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "kpi",
+      "source": "./plugins/kpi",
+      "description": "KPI — таблица показателей с весами (сумма 100%), источниками данных и формулой бонуса",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "hr",
+        "kpi",
+        "bonus",
+        "metrics",
+        "performance",
+        "okr"
+      ]
+    }
+  ]
+}
